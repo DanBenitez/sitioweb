@@ -1,0 +1,37 @@
+    /* Esta clase modifica la imagen y degradado del fondo del inicio*/
+    
+    body {
+        background-image: linear-gradient(rgb(243, 242, 247), rgb(250, 250, 250)), url("../img/fondo.jpg");
+    }
+    
+    .text-faded {
+        color: #0a1168;
+    }
+    
+    .bg-faded {
+        background-color: #031992;
+    }
+    /* Esta clase modifica la imagen y degradado del fondo del nosotros*/
+    
+    body {
+        background-image: url("../img/IMG.PNG");
+    }
+    /* Esta clase modifica la imagen y degradado del fondo del servicios*/
+    
+    body {
+        background-image: url("../img/IMG.PNG");
+    }
+    /* Esta clase modifica la imagen y degradado del fondo del servicios*/
+    
+    body {
+        background-image: url("../img/IMG.PNG");
+    }
+    
+    .bg-faded {
+        background-color: #0818a3;
+    }
+    /* esta clase modifica el color de footer de abajo */
+    
+    .footer {
+        background-color: rgba(43, 33, 97, 0.705);
+    }
